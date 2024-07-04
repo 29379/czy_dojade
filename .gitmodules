@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:jakulej/czy_dojade_mobile.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:jakulej/czy_dojade_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:jakulej/czy_dojade_frontend.git
