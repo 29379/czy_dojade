@@ -7,3 +7,4 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:jakulej/czy_dojade_frontend.git
+	branch = UI
